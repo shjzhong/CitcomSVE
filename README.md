@@ -1,7 +1,9 @@
 # CitcomSVE-3.0
 A finite element package for modeling terrestrial planetary viscoelastic deformation in response to tidal and surface loads.
 
-Version 3.0 was updated on December 23, 2024 with a new user's manual CitcomSVE3.0_UserGuide.pdf. You will need to download CitcomSVE-3.0.tar.gz, Compare_Cookbook.tar.gz, and ICE6G_1x1.tar.gz. Even if you had an earlier version of 3.0, you still want to use the new files, because input files and certain codes have been changed. 
+Version 3.0 was updated on June 13, 2025 with added pre- and post-processing functions. The changes occurred to CitcomSVE3.0_UserGuide.pdf and CitcomSVE-3.0.tar.gz. If you used an earlier version of 3.0, you may want to pay attention to your input files (e.g., inputfile6G_VM5a1) because the new input files may be updated slightly.   
+
+Version 3.0 was updated on December 23, 2024 with a new user's manual CitcomSVE3.0_UserGuide.pdf. You will need to download CitcomSVE-3.0.tar.gz, Compare_Cookbook.tar.gz, and ICE6G_1x1.tar.gz. 
 
 The version 3.0 was initially uploaded on April 22, 2024. The key upgrade from version 2.1 is the mantle compressibility with version 3.0. You should download CitcomSVE-3.0-main.zip. We are still updating user's manual and examples cookbook, and hopefully we will complete them soon. 
 
