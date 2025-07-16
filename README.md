@@ -1,5 +1,5 @@
 # CitcomSVE-3.0
-A finite element package for modeling terrestrial planetary viscoelastic deformation in response to tidal and surface loads.
+A finite element package for modeling terrestrial planetary viscoelastic deformation in response to tidal and surface loads. Here is a video recording of a tutorial on CitcomSVE-3.0 that we ran on July 16, 2025: https://youtu.be/JtksKTbl3CQ.
 
 Version 3.0 was updated on June 13, 2025 with added pre- and post-processing functions. The changes occurred to CitcomSVE3.0_UserGuide.pdf and CitcomSVE-3.0.tar.gz. If you used an earlier version of 3.0, you may want to pay attention to your input files (e.g., inputfile6G_VM5a1) because the new input files may be updated slightly.   
 
